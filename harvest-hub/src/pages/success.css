@@ -1,0 +1,36 @@
+.success-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.success-box {
+  background: #fff;
+  padding: 40px;
+  text-align: center;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+
+.success-box h2 {
+  color: #28a745;
+  margin-bottom: 10px;
+}
+
+.success-btn {
+  margin-top: 15px;
+  padding: 12px 20px;
+  background: #007bff;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.success-btn:hover {
+  background: #0056b3;
+}

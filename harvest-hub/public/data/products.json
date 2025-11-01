@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Fresh Yam Tubers",
+    "category": "Produce",
+    "price": 3000,
+    "image": "/Image/yam.jpeg",
+    "description": "Locally farmed yams, large-sized, cleaned and ready."
+  },
+  {
+    "id": 2,
+    "name": "Groundnut Oil",
+    "category": "Pantry",
+    "price": 1500,
+    "image": "/Image/groundnutoil.jpeg",
+    "description": "Cold-pressed groundnut oil, 500ml."
+  },
+  {
+    "id": 3,
+    "name": "Fresh Ugwu",
+    "category": "Produce",
+    "price": 500,
+    "image": "/Image/ugwu.jpeg",
+    "description": "Locally farmed Ugwu, medium-sized, cleaned and ready."
+  },
+  {
+    "id": 4,
+    "name": "Bread",
+    "category": "Pantry",
+    "price": 1500,
+    "image": "/Image/bread.jpeg",
+    "description": "Freshly Baked Bread, 1Kg."
+  },
+   {
+    "id": 5,
+    "name": "Apple",
+    "category": "Dairy",
+    "price": 2000,
+    "image": "/Image/apples.jpeg",
+    "description": "Fresh Apple, Five in a Pack, cleaned and ready."
+  },
+  {
+    "id": 6,
+    "name": "Ofada Rice",
+    "category": "Staple",
+    "price": 12000,
+    "image": "/Image/ofadarice.jpeg",
+    "description": "Locally farmed Ofada Rice, 10kg ."
+  },
+   {
+    "id": 7,
+    "name": "Rice",
+    "category": "Staple",
+    "price": 65000,
+    "image": "/Image/download (1).jpeg",
+    "description": "Imported Rice, 50 Kg, cleaned and ready."
+  },
+  {
+    "id": 8,
+    "name": "Beans",
+    "category": "Staple",
+    "price": 50000,
+    "image": "/Image/beans.jpeg",
+    "description": "Beans , 50Kg."
+  },
+   {
+    "id": 9,
+    "name": "Palm Oil",
+    "category": "Produce",
+    "price": 4500,
+    "image": "/Image/redoil.jpeg",
+    "description": "Locally made Palm Oil, Big-sized, cleaned and ready."
+  },
+  {
+    "id": 10,
+    "name": "Spaggeti",
+    "category": "Dairy",
+    "price": 1200,
+    "image": "/Image/spaggeti.jpeg",
+    "description": "Packaged Spaggeti, 500ml."
+  }
+]
