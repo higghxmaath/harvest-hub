@@ -1,4 +1,4 @@
-# Harvest Hub
+# Kiosk Daily Groceries
 
 Local Market Catalog — React beginner project.
 
