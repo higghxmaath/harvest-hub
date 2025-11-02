@@ -1,14 +1,7 @@
-# Kiosk Daily Groceries
+Welcome to Kiosk Daily Groceries, My very first full-stack React project!
 
-Local Market Catalog — React beginner project.
-
-## What it is
-- Product listing
-- Cart, checkout
-- Admin dashboard (orders + product management)
-- Firebase backend (Firestore)
-
-## How to run
-1. npm install
-2. npm run dev
-
+I started React with curiosity, a bit of fear, and a desire to build something real and maybe one day  a Unicorn. 
+Starting with Idea of integrating Physical Kiosk for Daily Groceries online where users can browse products,filter products, add items to cart, and place orders with Admin backend using Firebase for Product management and Order sorting.
+This project helped me learn React, Routing, and Firebase integration step-by-step.
+It’s not perfect — but it works, and I built it from scratch.
+Thanks.
